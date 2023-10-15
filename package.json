@@ -1,0 +1,18 @@
+{
+  "name": "bandizip",
+  "version": "1.0.0",
+  "description": "Easily generate archives on the fly with Bandizip (Windows only)",
+  "main": "index.js",
+  "keywords": [
+    "zip",
+    "archive",
+    "bandizip",
+    "windows"
+  ],
+  "author": "sh9351<https://sh9351.me>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sh9351/bandizip"
+  },
+  "license": "DBAD (Don't Be a D*ck Public License)"
+}
